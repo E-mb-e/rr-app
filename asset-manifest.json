@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rr-app/static/css/main.faadd705.chunk.css",
+    "main.js": "/rr-app/static/js/main.197810fa.chunk.js",
+    "main.js.map": "/rr-app/static/js/main.197810fa.chunk.js.map",
+    "runtime-main.js": "/rr-app/static/js/runtime-main.48a7bfe0.js",
+    "runtime-main.js.map": "/rr-app/static/js/runtime-main.48a7bfe0.js.map",
+    "static/js/2.ec1576cc.chunk.js": "/rr-app/static/js/2.ec1576cc.chunk.js",
+    "static/js/2.ec1576cc.chunk.js.map": "/rr-app/static/js/2.ec1576cc.chunk.js.map",
+    "index.html": "/rr-app/index.html",
+    "precache-manifest.540711b8d29d58add46094a3e8fe9074.js": "/rr-app/precache-manifest.540711b8d29d58add46094a3e8fe9074.js",
+    "service-worker.js": "/rr-app/service-worker.js",
+    "static/css/main.faadd705.chunk.css.map": "/rr-app/static/css/main.faadd705.chunk.css.map",
+    "static/js/2.ec1576cc.chunk.js.LICENSE": "/rr-app/static/js/2.ec1576cc.chunk.js.LICENSE",
+    "static/media/header1.jpg": "/rr-app/static/media/header1.70e6670e.jpg",
+    "static/media/header2.jpg": "/rr-app/static/media/header2.33eca35f.jpg",
+    "static/media/header3.jpg": "/rr-app/static/media/header3.d9d36b65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48a7bfe0.js",
+    "static/js/2.ec1576cc.chunk.js",
+    "static/css/main.faadd705.chunk.css",
+    "static/js/main.197810fa.chunk.js"
+  ]
+}
